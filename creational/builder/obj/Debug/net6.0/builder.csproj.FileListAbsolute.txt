@@ -1,0 +1,15 @@
+C:\dev\personal\designPatterns\builder\bin\Debug\net6.0\builder.exe
+C:\dev\personal\designPatterns\builder\bin\Debug\net6.0\builder.deps.json
+C:\dev\personal\designPatterns\builder\bin\Debug\net6.0\builder.runtimeconfig.json
+C:\dev\personal\designPatterns\builder\bin\Debug\net6.0\builder.dll
+C:\dev\personal\designPatterns\builder\bin\Debug\net6.0\builder.pdb
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.csproj.AssemblyReference.cache
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.AssemblyInfoInputs.cache
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.AssemblyInfo.cs
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.csproj.CoreCompileInputs.cache
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.dll
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\refint\builder.dll
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.pdb
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\builder.genruntimeconfig.cache
+C:\dev\personal\designPatterns\builder\obj\Debug\net6.0\ref\builder.dll
