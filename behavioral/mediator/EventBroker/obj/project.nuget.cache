@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhnZD1nC/if/GSBM8eJ0JhKWuEF9lexa4y6SNvznkUaNRZZTRjhDOMhtmCdQ26NxpTgwtRXtueZFrJpB1stLLA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\personal\\design_patterns\\behavioral\\mediator\\EventBroker\\EventBroker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

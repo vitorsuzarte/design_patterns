@@ -1,0 +1,15 @@
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+C:\dev\personal\design_patterns\behavioral\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll
