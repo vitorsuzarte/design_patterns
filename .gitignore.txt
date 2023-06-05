@@ -1,0 +1,2 @@
+behavioral/mediator/*/bin/
+behavioral/mediator/*/obj/
